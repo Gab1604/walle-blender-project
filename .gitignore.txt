@@ -1,0 +1,14 @@
+# Blender backups
+*.blend1
+*.blend2
+*.blend3
+*.blend~
+
+# Blender cache
+__pycache__/
+*.bphys
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
